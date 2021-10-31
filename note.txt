@@ -1,0 +1,7 @@
+- npm install -g create-react-app
+
+- npx create-react-app frontend-react
+
+- cd ../
+
+- npm start
